@@ -9,7 +9,7 @@
 
 # Properties Used
 
-YouTube: ![](https://youtu.be/Dz3rSZHnKkM)
+YouTube: https://youtu.be/Dz3rSZHnKkM
 
 Phonenumbers Python Library: https://pypi.org/project/phonenumbers/
 
