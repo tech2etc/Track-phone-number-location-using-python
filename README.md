@@ -9,7 +9,9 @@
 
 ## ABout this project
 We have created this project just for fun. Tracking someones location is more that what you think. In this project we are just trying to determine the country name based on the coutry codes. Nothing else.
+
 **Some words from OpenCage:**
+
 OpenCage can NOT be used to determine the location of a mobile phone simply based on the number of the phone.
 
 I’m forced to clarify this because we are getting more and more support requests from people who have been mislead by YouTube tutorials that a simple python script can be used to determine the location of any phone simply by entering the phone number.
