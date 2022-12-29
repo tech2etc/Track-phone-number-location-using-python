@@ -1,7 +1,7 @@
 # Track Phone Number Location Using Python GitHub Repository - Tech2 etc
 [![Track Phone Number Location Using Python GitHub Repository](https://user-images.githubusercontent.com/80243988/136017398-8416c97d-cbe2-425e-af98-6475eb99e696.PNG)](https://www.youtube.com/watch?v=Dz3rSZHnKkM)
 
-## Here you will get the answers of - 
+## Your queries - 
 
 **How To Track Phone Number Location With Python. track phone number location using python. Track phone number location using python github. how to track a phone number github. How to track location using python. python code for live location. Phone numbers Python.**
 
